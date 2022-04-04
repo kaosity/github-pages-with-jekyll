@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hi, I'm Kaosity."
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm an artist and future front-end programmer.
